@@ -2,7 +2,8 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> My Name is Vismay M. I am From Thiruvananthapuram,Attingal. I have passed my 12th Studies as Junior Software Developer (JSD).
+> I am Currently Pursuing for JEE (Main + Adv) Entrance Coaching at Aakash Institute Trivandrum. 
 
 
 ### Portfolio Highlights
